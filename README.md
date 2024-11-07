@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mithushika</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble/attachments/307954?mode=media">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithushikas" alt="mithushikas" /></a> </p>
 
