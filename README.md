@@ -6,7 +6,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mithushikas" alt="mithushikas" />
   </a> 
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=mithushikas)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Angular Project**
 
